@@ -4,7 +4,7 @@
 - 👨🏻‍💻 Experiência em HTML, CSS JavaScript e Bootstrap.
 - 🌱 Atualmente aprendendo React JS, React Native, C# e Python.
 - 👯 Cursando Desenvolvimento de Sistemas pela Escola Técnica de São Paulo (ETEC).
-
+<br>
 <div>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
