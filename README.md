@@ -15,8 +15,8 @@
 ##
 
 <div>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=pedroberte&show_icons=true&theme=dark"/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroberte&layout=compact&theme=dark"/>
+  <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=pedroberte&show_icons=true&theme=dark"/>
+  <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroberte&layout=compact&theme=dark"/>
 </div>
 
 
