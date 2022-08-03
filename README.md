@@ -2,7 +2,7 @@
 <i><h4>Apenas mais um completamente apaixonado pela tecnologia</h4></i>
 ##
 - 👨🏻‍💻 Experiência em HTML, CSS, JavaScript, Bootstrap e React JS.
-- 🌱 Atualmente aprendendo React Native, C# e Python.
+- 🌱 Atualmente aprendendo React Native, C#, Python e PHP.
 - 👯 Cursando Desenvolvimento de Sistemas pela Escola Técnica de São Paulo (ETEC).
 <br>
 <div>
