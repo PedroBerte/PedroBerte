@@ -1,8 +1,8 @@
 ## Pedro José Bertelli
 <i><h4>Apenas mais um completamente apaixonado pela tecnologia</h4></i>
 ##
-- 👨🏻‍💻 Experiência em HTML, CSS, JavaScript, Bootstrap e React JS.
-- 🌱 Atualmente aprendendo React Native, C#, Python e PHP.
+- 👨🏻‍💻 Experiência em HTML, CSS, JavaScript, TypeScript, Bootstrap, React JS React Native, C# e Aspx.Net.
+- 🌱 Atualmente aprendendo Next JS, Python e PHP.
 - 👯 Cursando Desenvolvimento de Sistemas pela Escola Técnica de São Paulo (ETEC).
 <br>
 <div>
