@@ -1,11 +1,11 @@
 ## Pedro José Bertelli
 <i><h4>Apenas mais um completamente apaixonado pela tecnologia</h4></i>
 ##
-- 👨🏻‍💻 Experiência em HTML, CSS, JavaScript, TypeScript, Bootstrap, React JS, React Native, C#, ASP.NET e .NET.
+- 👨🏻‍💻 Experiência em HTML, CSS, JavaScript, TypeScript, Tailwind, Chackra-UI, Angular, React JS, React Native, C#, ASP.NET e .NET.
 - 🎨 Experiência em UI/UX utilizando Figma e Photoshop.
-- 🌱 Atualmente aprendendo Next JS, C e estudando Sistemas Embarcados em C e C++.
+- 🌱 Atualmente aprendendo Next JS, C, Java e estudando Sistemas Embarcados em C e C++.
 - 👯 Técnico em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo (ETEC).
-- 👨🏻‍🎓 Atualmente cursando o segundo semestre de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo (FATEC).
+- 👨🏻‍🎓 Atualmente cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo (FATEC).
 - 💼 Atualmente trabalhando com ASP.NET, SQL Server, .NET 6.0, React JS, TypeScript e C# na Coreon IT.
 <br>
 <div>
